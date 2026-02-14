@@ -104,9 +104,10 @@ Seaborn
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Karnatakasravani/SHAP_analysis.git
 
-cd your-repository-name
+
+cd SHAP_analysis
 
 
 
@@ -211,16 +212,6 @@ The analysis reveals that non-salary income (capital gains) plays a critical rol
 SHAP enhances transparency by clearly showing how each feature contributes to both global model behavior and individual predictions.
 
 
-
-🎥 Video Walkthrough
-
-
-
-A short (3–5 minute) project walkthrough is available here: 
-
-
-
-👉 \[Insert YouTube or Vimeo Link Here]
 
 
 
